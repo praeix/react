@@ -12,5 +12,5 @@
  * @copyright   Mike Smith
  */
 
-// Do some stuff
-$var = 32;
+// Testing push
+$test_push = 'BLAM!';
